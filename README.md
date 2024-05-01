@@ -28,7 +28,7 @@ To compile and run the program, follow these steps:
 3. Navigate to the directory containing the `hamming.cpp` file.
 4. Compile the program using the following command:
 g++ -o hamming hamming.cpp
-5. Run the compiled executable:
+5. Run the compiled executable:./hamming
 
 ## Example
 Suppose we want to encode the 4-bit data word `1010`. After encoding and decoding, the program should correctly recover the original data.
